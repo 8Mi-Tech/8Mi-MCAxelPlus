@@ -8,8 +8,8 @@
     (抱歉，以我的C++能力，暂时没办法解决 GetHttp JSON 还有什么case指令咋用来着，嘤嘤嘤)
 ---
 ## 开发平台和依赖说明
-### 开发平台：Deepin or UOS => 20
-### Qt版本：Qt => 5.15.1
+#### 开发平台：Deepin or UOS => 20
+#### Qt版本：Qt => 5.15.1
 #### 依赖：
 
     sudo apt-get install libdtkwidget-dev libdtkcore-dev dh-make
