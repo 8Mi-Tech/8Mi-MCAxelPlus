@@ -19,4 +19,4 @@
     sudo apt-get install libdframeworkdbus-dev libqrencode-dev libzbar-dev libdtkwm-dev libdtkcore-bin  libqtshadowsocks-dev fakeroot
 ---
 ## 鸣谢如下项目
-    https://gitee.com/deepin-opensource/DtkDemo
+    https://gitee.com/deepin-opensource/DtkDemo 
