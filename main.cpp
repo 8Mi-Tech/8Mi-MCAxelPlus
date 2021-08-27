@@ -12,8 +12,8 @@ int main(int argc, char *argv[])
      dtk.loadTranslator();
      dtk.setOrganizationName("8Mi-Tech");
      dtk.setApplicationVersion(DApplication::buildVersion("1.0"));
-     dtk.setProductName("8Mi-DTKDebug");
-     dtk.setApplicationName("8Mi-DTKDebug"); //只有在这儿修改窗口标题才有效
+     dtk.setProductName("8Mi-MCAxelPlus");
+     dtk.setApplicationName("8Mi-MCAxelPlus"); //只有在这儿修改窗口标题才有效
      dtk.setApplicationAcknowledgementPage("https://blog.8mi.tech");
      dtk.setApplicationAcknowledgementVisible(true);
      dtk.setVisibleMenuIcon(true);
