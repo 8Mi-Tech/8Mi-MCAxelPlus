@@ -10,7 +10,7 @@
 ## 开发平台和依赖说明
 #### 开发平台：Deepin or UOS => 20
 #### Qt版本：Qt => 5.15.1
-#### 依赖：
+### 依赖：
 
     sudo apt-get install libdtkwidget-dev libdtkcore-dev dh-make
     sudo apt-get install libdframeworkdbus-dev libqrencode-dev libzbar-dev libdtkwm-dev libdtkcore-bin  libqtshadowsocks-dev fakeroot
